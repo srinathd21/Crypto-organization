@@ -19,7 +19,7 @@ pip install django celery redis django-celery-beat
 ## To install required packages
 
 ```sh
-pip install -r requirement.txt
+pip install -r requirements.txt
 ```
 
 ### 2. Run Django
