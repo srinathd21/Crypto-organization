@@ -44,7 +44,7 @@ Execute the following command:
 celery -A crypto_project worker --loglevel=info
 ```
 
-### 5. Running Celery Beat (Optional, for periodic tasks)
+### 5. Running Celery Beat
 
 ```sh
 celery -A crypto_project beat --loglevel=info
