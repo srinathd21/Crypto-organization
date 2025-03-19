@@ -14,9 +14,13 @@ Ensure you have the following installed:
 ```sh
 pip install django celery redis django-celery-beat
 ```
-or 
+### or 
 
-use requierment.txt to install requierd packages
+## To install requierd packages
+
+```sh
+pip install -r requierment.txt
+```
 
 ### 2. Run Django
 
