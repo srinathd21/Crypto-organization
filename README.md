@@ -1,8 +1,6 @@
 ﻿# Crypto-organization
 # Django + Celery + Redis Setup Guide
 
-This guide will walk you through setting up Django with Celery using Redis as the message broker.
-
 Ensure you have the following installed:
 - Python (>=3.8)
 - Django
